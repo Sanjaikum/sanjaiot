@@ -1,3 +1,4 @@
 sanjai = 1
-sanjai 
+sanjai = 78
+
 
